@@ -8,3 +8,5 @@ user friendly Apps for Chat and text to friends
   5. create text 
   6. share image 
   7. last seen code
+  8. blue tick options 
+ 

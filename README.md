@@ -10,3 +10,5 @@ user friendly Apps for Chat and text to friends
   7. last seen code
   8. blue tick options 
  9. whatsapp status
+10. whats video file and audio file send 
+11. voice calling optiion 

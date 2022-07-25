@@ -9,4 +9,4 @@ user friendly Apps for Chat and text to friends
   6. share image 
   7. last seen code
   8. blue tick options 
- 
+ 9. whatsapp status
